@@ -114,5 +114,17 @@ const CONFIG = {
 			icon: 'figma',
 			link: 'https://figma.com/',
 		},
+		{
+			id: '5',
+			name: 'Placeholder',
+			icon: 'placeholder',
+			link: 'https://figma.com/',
+		},
+		{
+			id: '6',
+			name: 'Placeholder',
+			icon: 'placeholder',
+			link: 'https://figma.com/',
+		},
 	],
 };
