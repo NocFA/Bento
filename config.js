@@ -75,6 +75,18 @@ const CONFIG = {
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
 		},
+		{
+			id: '5',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
+		},
+		{
+			id: '6',
+			name: 'Amazon',
+			icon: 'shopping-bag',
+			link: 'https://amazon.com/',
+		},
 	],
 
 	secondButtonsContainer: [
