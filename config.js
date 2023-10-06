@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'bd0fa88c4df4ae24a7ff21534d99b709', // Write here your API Key
+	weatherKey: '078e01dda525104d83a2d6c1179ae78e', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -59,72 +59,53 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Facebook',
-			icon: 'facebook',
-			link: 'https://facebook.com/',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv/',
 		},
 		{
 			id: '3',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://x.com/',
+			name: 'FlixWave',
+			icon: 'tv',
+			link: 'https://flixwave.to/',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Kick',
+			icon: 'airplay',
+			link: 'https://kick.com/',
 		},
 		{
 			id: '5',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
-		},
-		{
-			id: '6',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'TikTok',
+			icon: 'smartphone',
+			link: 'https://www.tiktok.com/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Facecbook',
+			icon: 'facebook',
+			link: 'https://facebook.com',
 		},
 		{
 			id: '2',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://x.com/',
 		},
 		{
 			id: '3',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 		{
 			id: '4',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
-		},
-		{
-			id: '5',
-			name: 'Placeholder',
-			icon: 'placeholder',
-			link: 'https://figma.com/',
-		},
-		{
-			id: '6',
-			name: 'Placeholder',
-			icon: 'placeholder',
-			link: 'https://figma.com/',
-		},
+			name: 'Reddit',
+			icon: 'reddit',
+			link: 'https://reddit.com/',
 	],
 };
