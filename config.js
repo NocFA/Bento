@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'TikTok',
 			icon: 'smartphone',
-			link: 'https://www.tiktok.com/'
+			link: 'https://www.tiktok.com/',
 		},
 	],
 
@@ -106,6 +106,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Reddit',
 			icon: 'reddit',
-			link: 'https://reddit.com/'
+			link: 'https://reddit.com/',
+		},
 	],
 };
