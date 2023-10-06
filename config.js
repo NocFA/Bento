@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep',
+	greetingNight: 'Go to Sleep,',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -85,27 +85,27 @@ const CONFIG = {
 
 	secondButtonsContainer: [
 		{
-			id: '1',
+			id: '3',
 			name: 'Facecbook',
 			icon: 'facebook',
 			link: 'https://facebook.com',
 		},
 		{
-			id: '2',
+			id: '4',
 			name: 'Twitter',
 			icon: 'twitter',
 			link: 'https://x.com/',
 		},
 		{
-			id: '3',
+			id: '5',
 			name: 'Instagram',
 			icon: 'instagram',
 			link: 'https://www.instagram.com/',
 		},
 		{
-			id: '4',
+			id: '6',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'book',
 			link: 'https://reddit.com/',
 		},
 	],
