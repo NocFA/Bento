@@ -17,7 +17,7 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
 	greetingNight: 'Go to Sleep,',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'FlixWave',
+			name: 'Movies & TV',
 			icon: 'tv',
-			link: 'https://flixwave.to/',
+			link: 'https://cinezone.to/',
 		},
 		{
 			id: '4',
@@ -75,35 +75,23 @@ const CONFIG = {
 			icon: 'airplay',
 			link: 'https://kick.com/',
 		},
-		{
-			id: '5',
-			name: 'TikTok',
-			icon: 'smartphone',
-			link: 'https://www.tiktok.com/',
-		},
 	],
 
 	secondButtonsContainer: [
 		{
-			id: '3',
+			id: '1',
 			name: 'Facecbook',
 			icon: 'facebook',
 			link: 'https://facebook.com',
 		},
 		{
-			id: '4',
-			name: 'Twitter',
-			icon: 'twitter',
-			link: 'https://x.com/',
-		},
-		{
-			id: '5',
+			id: '2',
 			name: 'Instagram',
 			icon: 'instagram',
 			link: 'https://www.instagram.com/',
 		},
 		{
-			id: '6',
+			id: '3',
 			name: 'Reddit',
 			icon: 'book',
 			link: 'https://reddit.com/',
